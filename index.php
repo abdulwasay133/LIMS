@@ -179,6 +179,6 @@ if($_SESSION['user']){
 </body>
 <?php
  }else{
-  header("Location: http://localhost/labreport/login.php");
+  header("Location: login.php");
 }
 ?>
